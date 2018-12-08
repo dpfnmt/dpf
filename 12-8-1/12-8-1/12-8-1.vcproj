@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="12-5"
-	ProjectGUID="{BD0EACD5-2F70-4F98-A9D2-36818B5D5B09}"
-	RootNamespace="testc"
+	Name="12-8-1"
+	ProjectGUID="{BE6C46A0-1BB7-46C6-832E-C96081DCC5C2}"
+	RootNamespace="My1281"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
