@@ -38,7 +38,7 @@
 //}
 
 
-缺省参数；
+//缺省参数
 #include<iostream>
 
 using namespace std;
@@ -50,10 +50,10 @@ void Teasfunc(int a = 10,int b = 20,int c = 30)
 }
 int main()
 {
-	Teasfunc();
+	/*Teasfunc();
 	Teasfunc(40);
-	Teasfunc(40,40);
-	//Teasfunc(40,40,40);
+	Teasfunc(40,40);*/
+	Teasfunc(40,40,40);
     return 0;
 }
 
@@ -86,4 +86,3 @@ int main()
 //	cout<<Add(10,20)<<endl;
 //    
 //    return 0;
-//}
