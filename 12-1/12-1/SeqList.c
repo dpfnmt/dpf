@@ -66,11 +66,11 @@ void SeqListPushFront(SeqList*ps,SLDataType x)
 
 void SeqListPopFront(SeqList* ps)
 {
-	int right = 0;
+	int right = ps;
     assert(ps);	
 	while(right < (int)ps->_size - 1 )
 	{
-	   ps->_array[right+1]=ps->_array[right];
+	   ps->_array[right-1]=ps->_array[right];
 	   ++right;
 	}
 	ps->_size--;

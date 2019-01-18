@@ -11,7 +11,6 @@
 
 typedef int SLDataType;
 
-
 typedef struct SeqList
 {
   SLDataType* _array;
