@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "堆", "堆\堆.vcproj", "{D57E8A42-F9A4-4B54-BF29-3C25F1EB0068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57E8A42-F9A4-4B54-BF29-3C25F1EB0068}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D57E8A42-F9A4-4B54-BF29-3C25F1EB0068}.Debug|Win32.Build.0 = Debug|Win32
+		{D57E8A42-F9A4-4B54-BF29-3C25F1EB0068}.Release|Win32.ActiveCfg = Release|Win32
+		{D57E8A42-F9A4-4B54-BF29-3C25F1EB0068}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

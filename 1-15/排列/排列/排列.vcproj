@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="¶Ñ1"
-	ProjectGUID="{A667E828-0E64-44A6-9246-0D4542766318}"
-	RootNamespace="¶Ñ1"
+	Name="ÅÅÐò"
+	ProjectGUID="{860B9050-D334-4873-84CC-AA5C96D34DE5}"
+	RootNamespace="ÅÅÁÐ"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -162,7 +162,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\¶Ñ\¶Ñ\heap.c"
+				RelativePath=".\Sort.c"
 				>
 			</File>
 		</Filter>
@@ -172,7 +172,7 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath="..\..\¶Ñ\¶Ñ\heap.h"
+				RelativePath=".\Sort.h"
 				>
 			</File>
 		</Filter>
