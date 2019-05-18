@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5-18（博客代码）", "5-18（博客代码）\5-18（博客代码）.vcproj", "{CF453430-EC55-4D62-867F-5B03A7B7C98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF453430-EC55-4D62-867F-5B03A7B7C98E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF453430-EC55-4D62-867F-5B03A7B7C98E}.Debug|Win32.Build.0 = Debug|Win32
+		{CF453430-EC55-4D62-867F-5B03A7B7C98E}.Release|Win32.ActiveCfg = Release|Win32
+		{CF453430-EC55-4D62-867F-5B03A7B7C98E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
